@@ -173,7 +173,7 @@
 
 // Set the OpenAI API endpoint and key
 $openai_api_url = "https://api.openai.com/v1/engines/davinci-codex/completions";
-$openai_api_key = "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";
+$openai_api_key = "PUT-YOUR-API-KEY-HERE";
 
 // Define the input fields for the cover letter
 if( isset($_POST['job']) && isset($_POST['company'])  && isset($_POST['recruter']) )
